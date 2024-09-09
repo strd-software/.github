@@ -1,3 +1,3 @@
 ## strd-io 👋
 
-Um espaço para compartilhar conteúdos sobre desenvolvimento de software.
+Compartilhando conteúdos sobre desenvolvimento de software.
